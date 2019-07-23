@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name:       Once Cart Items Remover
- * Plugin URI:        https://homescriptone.com
+ * Plugin URI:        https://homescript1.github.io/once-cart-items-remover/
  * Description:       An easy way to remove all items from the cart in one click.
  * Version:           1.0
  * Author:            HomeScript

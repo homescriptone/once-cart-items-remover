@@ -36,10 +36,10 @@
             var data = {
                 woocir_remove  : 0
             };
-            $.post(woocir_ajax_object.woocir_ajax_url,{
-                action : 'woocir_remove_all_items',
+            $.post(woorci_ajax_object.woorci_ajax_url,{
+                action : 'woorci_remove_all_items',
                 data : data ,
-                security : woocir_ajax_object.woocir_ajax_security
+                security : woorci_ajax_object.woorci_ajax_security
             },function(response){
                 if (response == 1){
                     $.unblockUI();
