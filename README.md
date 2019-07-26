@@ -1,6 +1,6 @@
 # Once Cart Items Remover
 
-#Author : [HomeScript](https://homescriptone.com)
+# Author : [HomeScript](https://homescriptone.com)
 
 **Once Cart Items Remover** is a plugin allowing the WooCommerce developer to empty their entire cart in one click, to avoid deleting them one by one.
 
@@ -23,4 +23,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[GPLv3+](https://github.com/homescript1/once-cart-items-remover/blob/master/LICENSE.txt)
+[GPLv2](https://github.com/homescript1/once-cart-items-remover/blob/master/LICENSE.txt)
