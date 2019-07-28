@@ -11,7 +11,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 <p>With Once Cart Items Remover plugin you can remove all items in  the cart by one click.<p>
 
 == Description ==
-<p>Remove all items in WooCommerce Cart by one click .</p>
+<p>Once Cart Items Remover plugin allows WooCommerce shop owner or developers to remove all items in the cart by one click while building an staging site.</p>
+<p>You can remove : 
+<ul>
+<li>From mini-cart</li>
+<li>From cart page</li>
+</ul> 
+</p>
+<p>You can follow the project on <a href="http://bit.ly/2YcN2Gf">Github</a> </p>
 <h4>Feedback</h4>
 <ul>
 <li>We are open to your suggestions and feedback. Thank you for using or trying out one of our plugins!</li>
@@ -26,6 +33,9 @@ do an automatic install of, log in to your WordPress dashboard, navigate to the 
 <h4>Manual installation</h4>
 <p>The manual installation method involves downloading our plugin and uploading it to your web server via your favorite FTP application. The WordPress codex contains <a href="https://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation" rel="follow nofollow">instructions on how to do this here</a>.</p></div>
 == Changelog ==
+<h4>1.1 - 28 July 2019</h4>
+<ul>
+<li>Possibility to empty the mini cart now.</li>
 <h4>1.0 - 23 July 2019</h4>
 <ul>
 <li>Initial Release</li>

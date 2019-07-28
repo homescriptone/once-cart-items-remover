@@ -29,8 +29,8 @@
      * practising this, we should strive to set a better example in our own work.
      */
     $(document).ready(function () {
-       var woocir_btn = $('button#remove_all_items');
-       woocir_btn.on('click submit',function(e){
+       var woorci_btn = $('button#remove_all_items');
+       woorci_btn.on('click submit',function(e){
             e.preventDefault();
             $.blockUI();
             var data = {

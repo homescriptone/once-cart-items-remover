@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Once Cart Items Remove\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-23 00:16+0000\n"
+"POT-Creation-Date: 2019-07-24 20:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: \n"
@@ -15,18 +15,39 @@ msgstr ""
 "X-Generator: Loco https://localise.biz/\n"
 "X-Loco-Version: 2.3.0; wp-5.2.2"
 
-#. Description of the plugin
-msgid "An easy way to remove all items from the cart in one click."
+#: cart_items_remover.php:27
+msgid "Remove All Cart Items"
 msgstr ""
 
-#: cart_items_remover.php:77
+#: cart_items_remover.php:67 cart_items_remover.php:76
+#: cart_items_remover.php:94
+msgid "Once Cart Items Remover"
+msgstr ""
+
+#: cart_items_remover.php:80
+msgid "Enable/Disable"
+msgstr ""
+
+#: cart_items_remover.php:84
 msgid ""
 "Display button that allows your customer, to delete all items from the cart "
 "in one click."
 msgstr ""
 
-#: cart_items_remover.php:73
-msgid "Enable/Disable"
+#: cart_items_remover.php:111
+msgid "Our other apps that can help you in your WooCommerce shop :"
+msgstr ""
+
+#: cart_items_remover.php:119
+msgid "Download now"
+msgstr ""
+
+#. Description of the plugin
+msgid "An easy way to remove all items from the cart in one click."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://homescript1.github.io/once-cart-items-remover/"
 msgstr ""
 
 #. Author of the plugin
@@ -36,17 +57,4 @@ msgstr ""
 #. URI of the plugin
 #. Author URI of the plugin
 msgid "https://homescriptone.com"
-msgstr ""
-
-#. Name of the plugin
-#: cart_items_remover.php:59
-msgid "Once Cart Items Remove"
-msgstr ""
-
-#: cart_items_remover.php:69
-msgid "Once Cart Items Remover"
-msgstr ""
-
-#: cart_items_remover.php:24
-msgid "Remove All Cart Items"
 msgstr ""
