@@ -6,7 +6,7 @@
 
 ## Installation
 
-Download the plugin from [wp repository](http://bit.ly/32Of3m3) or from the GitHub repository by running this :
+Download the plugin from the GitHub repository by running this :
 
 ```bash
 git clone : https://github.com/homescript1/once-cart-items-remover.git
